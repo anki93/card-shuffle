@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cards-shuffle/static/css/main.a136b419.chunk.css",
-    "main.js": "/cards-shuffle/static/js/main.1e61decb.chunk.js",
-    "main.js.map": "/cards-shuffle/static/js/main.1e61decb.chunk.js.map",
-    "runtime-main.js": "/cards-shuffle/static/js/runtime-main.b0d8c3ce.js",
-    "runtime-main.js.map": "/cards-shuffle/static/js/runtime-main.b0d8c3ce.js.map",
-    "static/js/2.eb97ba2f.chunk.js": "/cards-shuffle/static/js/2.eb97ba2f.chunk.js",
-    "static/js/2.eb97ba2f.chunk.js.map": "/cards-shuffle/static/js/2.eb97ba2f.chunk.js.map",
-    "index.html": "/cards-shuffle/index.html",
-    "precache-manifest.81c3df9a794fb2bcc420a6ae91338f5a.js": "/cards-shuffle/precache-manifest.81c3df9a794fb2bcc420a6ae91338f5a.js",
-    "service-worker.js": "/cards-shuffle/service-worker.js",
-    "static/css/main.a136b419.chunk.css.map": "/cards-shuffle/static/css/main.a136b419.chunk.css.map",
-    "static/js/2.eb97ba2f.chunk.js.LICENSE.txt": "/cards-shuffle/static/js/2.eb97ba2f.chunk.js.LICENSE.txt"
+    "main.css": "/cards-shuffle/build/static/css/main.a136b419.chunk.css",
+    "main.js": "/cards-shuffle/build/static/js/main.1fc688c1.chunk.js",
+    "main.js.map": "/cards-shuffle/build/static/js/main.1fc688c1.chunk.js.map",
+    "runtime-main.js": "/cards-shuffle/build/static/js/runtime-main.b3dc5a59.js",
+    "runtime-main.js.map": "/cards-shuffle/build/static/js/runtime-main.b3dc5a59.js.map",
+    "static/js/2.eb97ba2f.chunk.js": "/cards-shuffle/build/static/js/2.eb97ba2f.chunk.js",
+    "static/js/2.eb97ba2f.chunk.js.map": "/cards-shuffle/build/static/js/2.eb97ba2f.chunk.js.map",
+    "index.html": "/cards-shuffle/build/index.html",
+    "precache-manifest.89a1e77efb50fb59e792e5750de6b059.js": "/cards-shuffle/build/precache-manifest.89a1e77efb50fb59e792e5750de6b059.js",
+    "service-worker.js": "/cards-shuffle/build/service-worker.js",
+    "static/css/main.a136b419.chunk.css.map": "/cards-shuffle/build/static/css/main.a136b419.chunk.css.map",
+    "static/js/2.eb97ba2f.chunk.js.LICENSE.txt": "/cards-shuffle/build/static/js/2.eb97ba2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0d8c3ce.js",
+    "static/js/runtime-main.b3dc5a59.js",
     "static/js/2.eb97ba2f.chunk.js",
     "static/css/main.a136b419.chunk.css",
-    "static/js/main.1e61decb.chunk.js"
+    "static/js/main.1fc688c1.chunk.js"
   ]
 }
